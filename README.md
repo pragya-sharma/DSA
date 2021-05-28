@@ -5,6 +5,9 @@
  > __PROBLEM COVERED__
 
   * QUEUE
+
+   ![](https://easy-software.com/wp-content/uploads/2018/07/automatische-zuweisung.gif)
+   
   
     ```
      
