@@ -5,9 +5,13 @@
  > __PROBLEM COVERED__
 
   * QUEUE
+  
+  
 
-   ![](https://easy-software.com/wp-content/uploads/2018/07/automatische-zuweisung.gif)
+   ![](https://miro.medium.com/max/2000/1*KEs1ByQTLIuRmWaFCdAF6Q.gif)
    
+  
+  
   
     ```
      
@@ -19,6 +23,8 @@
     
     ```
 
+
   * GRAPH 
+  
   
     ![](https://i.pinimg.com/originals/6a/e6/de/6ae6debded140059005af325ff032117.gif)
