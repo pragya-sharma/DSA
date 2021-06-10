@@ -32,4 +32,4 @@
     
   * Stack
   
-   ![](https://alln-extcloud-storage.cisco.com/gblogs/sites/35/ASAP_Animation_Clouds.gif)
+   ![](https://miro.medium.com/max/2334/1*aIB9uIpH-dXob4wWZqm6Fw.gif)
