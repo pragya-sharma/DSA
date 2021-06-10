@@ -31,3 +31,5 @@
     
     
   * Stack
+  
+   ![](https://alln-extcloud-storage.cisco.com/gblogs/sites/35/ASAP_Animation_Clouds.gif)
