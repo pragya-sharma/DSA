@@ -32,4 +32,5 @@
     
   * Stack
   
+  
    ![](https://miro.medium.com/max/2334/1*aIB9uIpH-dXob4wWZqm6Fw.gif)
